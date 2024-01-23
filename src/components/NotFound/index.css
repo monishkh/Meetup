@@ -1,0 +1,29 @@
+.not-found-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding-top: 50px;
+}
+
+.nf-img {
+  width: 450px;
+}
+
+.nf-logo-img {
+  align-self: flex-start;
+  margin-left: 50px;
+  width: 150px;
+}
+
+.nf-heading {
+  font-size: 52px;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.nt-caption {
+  font-size: 22px;
+  font-weight: 500;
+  color: grey;
+}

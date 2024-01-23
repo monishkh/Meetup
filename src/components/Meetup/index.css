@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+  box-sizing: border-box;
+}
+
+.logo-img {
+  margin-left: 100px;
+}
+
+.app-page {
+  background-color: whitesmoke;
+  padding: 20px;
+  height: 100vh;
+}
+
+.meetup-img {
+  width: 600px;
+  margin-top: 10px;
+}
+
+.meet-up {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.register-box {
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.main-heading {
+  font-size: 52px;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+.caption {
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #64748b;
+}
+
+.r-btn {
+  border: none;
+  background-color: #3b82f6;
+  height: 40px;
+  width: 100px;
+  color: white;
+  border-radius: 8px;
+  margin-top: 10px;
+}
